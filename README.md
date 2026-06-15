@@ -1,5 +1,4 @@
 # AES Encryption
-
 This project demonstrates the implementation of the Advanced Encryption Standard (AES) algorithm in Node.js.  
 It provides basic functionality to encrypt and decrypt data using symmetric key cryptography.
 
